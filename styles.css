@@ -1,0 +1,64 @@
+.gr{
+background-color: grey;
+}
+body{
+    background-color: yellowgreen;
+    font-family: 'Roboto', sans-serif;
+}
+img{
+    position: relative;
+    left: 500px ;
+    width: 400px;
+}
+
+#CV{
+    font-size: larger;
+    font-weight: 200;
+}
+    .R{
+        text-align: right;
+    }
+        .underline {
+            text-decoration: underline;
+        }
+            .in{
+                text-align: center;
+    }
+    nav{
+        display: inline-block;
+        background-color: black;
+        width: 615px;
+        position: relative;
+        
+    }
+    a{
+        text-decoration: none;
+        display: inline-block;
+        padding: 30px;
+        border: 1px solid;
+        border-color: blue;
+        background-color: rgba(0, 0, 0, 0.342);
+        font-size: larger;
+       
+    }
+    #CV{
+        text-align: center;
+        border: none;
+        /*position: relative;
+        left: 2rem;*/
+        text-decoration: underline;
+    }
+        .enfant{
+            border-color: blue;  
+            color: brown; 
+        }
+       #s{
+        background-color: rgb(0, 255, 242);
+       } 
+
+    
+    footer{
+        
+        margin-top: 300px;
+       font-style: italic;
+    }
